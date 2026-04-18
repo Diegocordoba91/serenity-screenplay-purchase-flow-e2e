@@ -314,6 +314,7 @@ For issues or questions about this test automation project:
 3. Check Serenity BDD documentation: <https://serenity-bdd.info/>
 4. Verify your Java/Maven versions match the requirements
 5. Ensure `saucedemo.com` is accessible from your location
+6. Contact with `Diego Cordoba` email `diegocordobaingeniero@gmail.com`
 
 ---
 
