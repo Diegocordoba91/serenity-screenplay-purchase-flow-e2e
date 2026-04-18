@@ -42,12 +42,8 @@
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/serenity-bdd-demo.git
-cd serenity-bdd-demo
+git clone https://github.com/Diegocordoba91/serenity-screenplay-purchase-flow-e2e.git
 ```
-
-> Replace `YOUR_USERNAME` with your GitHub username.
-
 ### Step 2 — Verify Prerequisites
 
 From the project directory:
