@@ -7,7 +7,6 @@ OBJECTIVE: Automated E2E test (Exercise 1) for a complete purchase flow on sauce
 TEST FRAMEWORK: Serenity BDD with Screenplay Pattern
 LANGUAGE: Java 17
 BUILD TOOL: Maven
-SCOPE: Exercise 1 - UI Testing Only (Exercise 2 API testing retired)
 
 ================================================================================
 REQUIREMENTS
@@ -71,7 +70,6 @@ This command:
   - Downloads all dependencies (install)
   - Compiles the Java code
   - First time may take 2-5 minutes as it downloads dependencies
-
 
 STEP 4: Run the Full Test Suite
 --------------------------------
