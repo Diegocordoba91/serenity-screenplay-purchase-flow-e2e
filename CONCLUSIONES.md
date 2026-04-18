@@ -18,7 +18,7 @@
 
 ## 🏗️ Arquitectura
 
-### 1️⃣ Screenplay Pattern vs Page Object Model Tradicional
+### 1️⃣ Screenplay Pattern
 
 ```
 (Screenplay Pattern):
