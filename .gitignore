@@ -1,0 +1,77 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+.gradletasknamecache
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled class files
+**/*.class
+
+# Log files
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Serenity reports
+serenity-reports/
+
+# Chrome user data
+user-data-dir/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Node (if used)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Test reports
+test-output/
+surefire-reports/
+
+# Claude AI specific files
+CLAUDE.md
+.claude/
+*.claude
+
+# Project-specific notes (exclude if needed)
+conclusiones.txt
+SETUP_COMPLETED.txt
+EXERCISE_2_RETIRED.txt
