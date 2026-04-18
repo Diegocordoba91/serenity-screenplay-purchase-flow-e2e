@@ -1,7 +1,7 @@
 # Serenity BDD — SauceDemo Purchase Flow E2E Test
 
 **Project name:** `serenity-bdd-demo`
-**Objective:** Automated E2E test (Exercise 1) for a complete purchase flow on [saucedemo.com](https://www.saucedemo.com/)
+**Objective:** Automated E2E test for a complete purchase flow on [saucedemo.com](https://www.saucedemo.com/)
 **Test framework:** Serenity BDD with Screenplay Pattern
 **Language:** Java 17
 **Build tool:** Maven
