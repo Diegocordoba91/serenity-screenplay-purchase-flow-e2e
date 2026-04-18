@@ -226,8 +226,7 @@ void closeTheTheater() {
 
 **Serenity BDD Screenplay Pattern**  
 _E2E Test Automation Framework_
-
-⭐ Si este proyecto fue útil, déjanos una estrella en GitHub
+Diego Córdoba Qa Automation Enginner
 
 </div>
 
